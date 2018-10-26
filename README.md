@@ -1,4 +1,4 @@
-# SimpleNetworkSwitch
+# NetworkSwitch
 Simple Network switch in the Terminal
 
 Step 1:
